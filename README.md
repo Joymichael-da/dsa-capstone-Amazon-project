@@ -17,3 +17,22 @@ The primary source of data used here is Amazon product review.csv and this is an
 - Customer engagement:user reviews,titles and content.
 
 ### Analysis and Results
+- Average discount percentage by product category
+- Number of products listed under each category
+- Total number of reviews per category
+- Products with the highest  average rating
+- Average actual price vs the discounted price by category
+- Products with the highest number of reviews
+- Products that have a discount of 50% or more
+- Distribution of product ratings
+- Total potential revenue
+- Number of unique products per price range bucket
+- Relationship of rating to the level of discount
+- Number of product with fewer than 1000 reviews
+- Product with the highest discounts
+- Top 5 products in terms of rating and number of reviews combined
+
+### Excel Dashboard
+- 
+
+
