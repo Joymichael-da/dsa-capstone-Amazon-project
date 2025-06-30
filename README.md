@@ -11,7 +11,9 @@ We had a 3month virtual training session with Incubator Hub as our trainer.This 
 - Pivot table for summarizing and analysing data.
 - Github for submission.
 
-### Data Sources
-The primary source of data used here is Amazon product review.csv and this is an open source data provided by our instructors.The dataset 
+### Data Source and Description
+The primary source of data used here is Amazon product review.csv and this is an open source data provided by our instructors.The dataset has a total records of 1465 rows and total fields of 16 columns.Contained in the dataset is ;
+- Product details:name,category, price,discount and ratings
+- Customer engagement:user reviews,titles and content.
 
 ### Analysis and Results
