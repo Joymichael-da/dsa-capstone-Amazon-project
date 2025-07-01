@@ -21,6 +21,13 @@ The primary source of data used here is Amazon product review.csv and this is an
 - Number of products listed under each category
 - Total number of reviews per category
 - Products with the highest  average rating
+  product_id	product_name	                                                           category   rating rating_count 
+B07KSMBL2H	AmazonBasics Flexible Premium HDMI Cable (Black, 4K@60Hz, 18Gbps), 3-Foot	Electronics		4		 426,973 
+B014I8SSD0	Amazon Basics High-Speed HDMI Cable, 6 Feet - Supports Ethernet, 3D, 4K video,Black	Electronics	309	₹200-₹500	475	35	31-40%	No			427	4	202,812	 426,973 
+B014I8SX4Y	Amazon Basics High-Speed HDMI Cable, 6 Feet (2-Pack),Black	Electronics	309	₹200-₹500	1400	78	71-80%	Yes			427	4	597,762	 426,973 
+B07KSMBL2H	AmazonBasics Flexible Premium HDMI Cable (Black, 4K@60Hz, 18Gbps), 3-Foot	Electronics	219	₹200-₹500	700	69	61-70%	Yes			427	4	298,880	 426,972 
+![image](https://github.com/user-attachments/assets/96ebcd83-69d3-402b-a43a-285b4dc7fbd4)
+
 - Average actual price vs the discounted price by category
 - Products with the highest number of reviews
 - Products that have a discount of 50% or more
