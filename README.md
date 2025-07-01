@@ -51,7 +51,9 @@ e) I deleted some columns that were not needed for the analysis.
 - Relationship of rating to the level of discount
 - Number of product with fewer than 1000 reviews
 - Product with the highest discounts
-- Top 5 products in terms of rating and number of reviews combined
+14) Top 5 products in terms of rating and number of reviews combined
+ 
+![image](https://github.com/user-attachments/assets/f4ba3dad-b045-4d7b-8ea0-b2e4d7294f6b)
 
 ### Excel Dashboard
 - 
