@@ -72,13 +72,27 @@ This 3 products with the higest rating are the most liked/prefferd product.
 
 
 12) Number of product with fewer than 1000 reviews
+
     This was analysed using the formular =COUNTIF(rating_count_range,"<1000").The result showed that 313 products had less than 1000 reviews.
   
 13)  Product with the highest discounts
     
 14) Top 5 products in terms of rating and number of reviews combined
- 
-![image](https://github.com/user-attachments/assets/f4ba3dad-b045-4d7b-8ea0-b2e4d7294f6b)
+
+a) AmazonBasics Flexible Premium HDMI Cable (Black, 4K@60Hz, 18Gbps), 3-Foot	Electronics	 
+
+b)	Amazon Basics High-Speed HDMI Cable, 6 Feet - Supports Ethernet, 3D, 4K video,Black	Electronics	 
+
+c) Amazon Basics High-Speed HDMI Cable, 6 Feet (2-Pack),Black	Electronics	
+
+d) AmazonBasics Flexible Premium HDMI Cable (Black, 4K@60Hz, 18Gbps), 3-Foot	Electronics	
+
+e) boAt Bassheads 100 in Ear Wired Earphones with Mic(Taffy Pink)	Electronics	
+
+![image](https://github.com/user-attachments/assets/ae5f9f47-b6e0-47d8-9d14-d068cee8370e)
+
+
+
 
 ### Excel Dashboard
 - 
