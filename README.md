@@ -32,32 +32,45 @@ e) I deleted some columns that were not needed for the analysis.
 - Total number of reviews per category
 4) Products with the highest  average rating
 
-  a)	Amazon Basics Wireless Mouse 
-  b)  Syncwire LTG to USB Cable for Fast Charging Compatible with Phone 
-  c) REDTECH USB-C to Lightning Cable 3.3FT
+  a)	Amazon Basics Wireless Mouse.
+   
+  b)  Syncwire LTG to USB Cable for Fast Charging Compatible with Phone.
+  
+  c) REDTECH USB-C to Lightning Cable 3.3FT.
 
 ![image](https://github.com/user-attachments/assets/d2ecff6c-3b5d-4370-ae50-5320031e404e)
 
 This 3 products with the higest rating are the most liked/prefferd product.
 
-  6) Product with the highest number of reviews
- a)AmazonBasics Flexible Premium HDMI Cable (Black, 4K@60Hz, 18Gbps), 3-Foot		  
+5) Average actual price vs the discounted price by category
 
- b)Amazon Basics High-Speed HDMI Cable, 6 Feet 
+6) Product with the highest number of reviews
+     
+ a)AmazonBasics Flexible Premium HDMI Cable (Black, 4K@60Hz, 18Gbps), 3-Foot.		  
 
- c)Amazon Basics High-Speed HDMI Cable, 6 Feet (2-Pack),Black
+ b)Amazon Basics High-Speed HDMI Cable, 6 Feet. 
 
- d)AmazonBasics Flexible Premium HDMI Cable (Black, 4K@60Hz, 18Gbps), 3-Foot	
+ c)Amazon Basics High-Speed HDMI Cable, 6 Feet (2-Pack),Black.
+
+ d)AmazonBasics Flexible Premium HDMI Cable (Black, 4K@60Hz, 18Gbps), 3-Foot.	
 
 ![image](https://github.com/user-attachments/assets/96ebcd83-69d3-402b-a43a-285b4dc7fbd4)
 
-- Average actual price vs the discounted price by category
+
   
-- Products that have a discount of 50% or more
-- Distribution of product ratings
-- Total potential revenue
-- Number of unique products per price range bucket
-- Relationship of rating to the level of discount
+7) Products that have a discount of 50% or more
+
+   This was analysed using the formular =COUNTIF(discount%_range,(">=50").The result showed that 694 products had a discount of 50% and more for its sales.
+
+8) Distribution of product ratings
+
+9) Total potential revenue
+
+10) Number of unique products per price range bucket
+
+11) Relationship of rating to the level of discount
+
+
 12) Number of product with fewer than 1000 reviews
     This was analysed using the formular =COUNTIF(rating_count_range,"<1000").The result showed that 313 products had less than 1000 reviews.
   
