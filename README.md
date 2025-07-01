@@ -17,18 +17,28 @@ The primary source of data used here is Amazon product review.csv and this is an
 - Customer engagement: user reviews,titles and content.
 
 ### Analysis and Results
+I started my analysis by;
+Browsing through the data to understand what I have and identify what is needed
+I put my dataset in a table format to help excel recognise my dataset as a structured table
+I cleaned my dataset by a)checking for blanks( I filled in 2 blanks in the rating_count colunm with 00)
+b)ckecking for duplicates (I identified 65 duplicates left with 1400 unique values)
+c)I used delimeter(|) for my category colunm in order to extract only the main category needed.
+d) I added some calculated columns
+e) I deleted some columns that were not needed for the analysis.
+
+#### Results
 - Average discount percentage by product category
 - Number of products listed under each category
 - Total number of reviews per category
 4) Products with the highest  average rating
   
-a)AmazonBasics Flexible Premium HDMI Cable (Black, 4K@60Hz, 18Gbps), 3-Foot		  
+ a)AmazonBasics Flexible Premium HDMI Cable (Black, 4K@60Hz, 18Gbps), 3-Foot		  
 
-b)Amazon Basics High-Speed HDMI Cable, 6 Feet 
+ b)Amazon Basics High-Speed HDMI Cable, 6 Feet 
 
-c)Amazon Basics High-Speed HDMI Cable, 6 Feet (2-Pack),Black
+ c)Amazon Basics High-Speed HDMI Cable, 6 Feet (2-Pack),Black
 
-d)AmazonBasics Flexible Premium HDMI Cable (Black, 4K@60Hz, 18Gbps), 3-Foot	
+ d)AmazonBasics Flexible Premium HDMI Cable (Black, 4K@60Hz, 18Gbps), 3-Foot	
 
 ![image](https://github.com/user-attachments/assets/96ebcd83-69d3-402b-a43a-285b4dc7fbd4)
 
