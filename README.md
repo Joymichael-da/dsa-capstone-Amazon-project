@@ -48,9 +48,10 @@ e) I deleted some columns that were not needed for the analysis.
 
 3) The total number of reviews per category
 
-    
- 4) 
-- Total number of reviews per category
+    ![Screenshot (39)](https://github.com/user-attachments/assets/e0706bdc-6529-4a54-b21a-810b8cdf1510)
+
+    Electronics had the most review, car and motorbike had the least number of review.
+
 4) Products with the highest  average rating
 
   a)	Amazon Basics Wireless Mouse.
@@ -59,13 +60,20 @@ e) I deleted some columns that were not needed for the analysis.
   
   c) REDTECH USB-C to Lightning Cable 3.3FT.
 
-![image](https://github.com/user-attachments/assets/d2ecff6c-3b5d-4370-ae50-5320031e404e)
+  ![image](https://github.com/user-attachments/assets/d2ecff6c-3b5d-4370-ae50-5320031e404e)
 
-This 3 products with the higest rating are the most liked/prefferd product.
+   This 3 products with the higest rating are the most liked/prefferd product.
 
 5) Average actual price vs the discounted price by category
 
-6) Product with the highest number of reviews
+   ![Screenshot (40)](https://github.com/user-attachments/assets/db3aca34-ebc5-45c2-9f38-503747f38297)
+
+    This table shows Toys and Games was not offered at a discount price.
+
+6) Product with the highest number of reviews.
+
+   
+8) Product with the highest number of reviews
      
  a)AmazonBasics Flexible Premium HDMI Cable (Black, 4K@60Hz, 18Gbps), 3-Foot.		  
 
