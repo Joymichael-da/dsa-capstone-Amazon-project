@@ -100,20 +100,27 @@ e) I deleted some columns that were not needed for the analysis.
 
 10) Number of unique products per price range bucket
 
+    ![Screenshot (44)](https://github.com/user-attachments/assets/2ed7cf9b-8e93-4027-a1ea-91ef6646f3f6)
+
 11) Relationship of rating to the level of discount
 
+     ![Screenshot (45)](https://github.com/user-attachments/assets/9c2973cd-7324-4cef-97fd-eb2ac1c7acaa)
+
+     The level of discount does not affect the rating,as the rating for all product ranges between 4.0 - 4.2
 
 12) Number of product with fewer than 1000 reviews
 
-    This was analysed using the formular =COUNTIF(rating_count_range,"<1000").The result showed that 313 products had less than 1000 reviews.
+    This was analysed using the formular =COUNTIF(rating_count_range,"<1000").The result showed that ###313 products had less than 1000 reviews.
   
 13)  Product with the highest discounts
-    
+
+    ![Screenshot (47)](https://github.com/user-attachments/assets/088bca1c-2f1c-49a1-87bd-ccb9bab4bf9c)
+
 14) Top 5 products in terms of rating and number of reviews combined
 
 a) AmazonBasics Flexible Premium HDMI Cable (Black, 4K@60Hz, 18Gbps), 3-Foot	Electronics	 
 
-b)	Amazon Basics High-Speed HDMI Cable, 6 Feet - Supports Ethernet, 3D, 4K video,Black	Electronics	 
+b) Amazon Basics High-Speed HDMI Cable, 6 Feet - Supports Ethernet, 3D, 4K video,Black	Electronics	 
 
 c) Amazon Basics High-Speed HDMI Cable, 6 Feet (2-Pack),Black	Electronics	
 
