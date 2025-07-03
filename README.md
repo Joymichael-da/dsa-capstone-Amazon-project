@@ -86,7 +86,7 @@ e) I deleted some columns that were not needed for the analysis.
 
 7) Products that have a discount of 50% or more
 
-   This was analysed using the formular =COUNTIF(discount%_range,(">=50").The result showed that ###694 products had a discount of 50% and more for its sales.
+   This was analysed using the formular =COUNTIF(discount%_range,(">=50").The result showed that 694 products had a discount of 50% and more for its sales.
 
 8) Distribution of product ratings
 
@@ -110,7 +110,7 @@ e) I deleted some columns that were not needed for the analysis.
 
 12) Number of product with fewer than 1000 reviews
 
-    This was analysed using the formular =COUNTIF(rating_count_range,"<1000").The result showed that ###313 products had less than 1000 reviews.
+    This was analysed using the formular =COUNTIF(rating_count_range,"<1000").The result showed that 313 products had less than 1000 reviews.
   
 13)  Product with the highest discounts
 
