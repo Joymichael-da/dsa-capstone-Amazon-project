@@ -23,7 +23,9 @@ Browsing through the data to understand what I have and identify what is needed.
 
 I put my dataset in a table format to help excel recognise my dataset as a structured table.
 
-I cleaned my dataset by a)checking for blanks( I filled in 2 blanks in the rating_count colunm with 00).
+I cleaned my dataset by;
+
+a)checking for blanks ( I filled in 2 blanks in the rating_count colunm with 00).
 
 b)ckecking for duplicates (I identified 65 duplicates left with 1400 unique values).
 
@@ -71,9 +73,6 @@ e) I deleted some columns that were not needed for the analysis.
     This table shows Toys and Games was not offered at a discount price.
 
 6) Product with the highest number of reviews.
-
-   
-8) Product with the highest number of reviews
      
  a)AmazonBasics Flexible Premium HDMI Cable (Black, 4K@60Hz, 18Gbps), 3-Foot.		  
 
@@ -85,15 +84,19 @@ e) I deleted some columns that were not needed for the analysis.
 
 ![image](https://github.com/user-attachments/assets/96ebcd83-69d3-402b-a43a-285b4dc7fbd4)
 
-
-  
 7) Products that have a discount of 50% or more
 
    This was analysed using the formular =COUNTIF(discount%_range,(">=50").The result showed that 694 products had a discount of 50% and more for its sales.
 
 8) Distribution of product ratings
 
+   ![Screenshot (42)](https://github.com/user-attachments/assets/6986f4dd-95c5-4249-b509-001a447e8f9b)
+
 9) Total potential revenue
+
+    ![Screenshot (43)](https://github.com/user-attachments/assets/c1911c28-6588-44ea-a53d-00f06152cc72)
+
+   From the discount sales conducted Electronics has the highest potential revenue.
 
 10) Number of unique products per price range bucket
 
