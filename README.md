@@ -18,17 +18,38 @@ The primary source of data used here is Amazon product review.csv and this is an
 
 ### Analysis and Results
 I started my analysis by;
-Browsing through the data to understand what I have and identify what is needed
-I put my dataset in a table format to help excel recognise my dataset as a structured table
-I cleaned my dataset by a)checking for blanks( I filled in 2 blanks in the rating_count colunm with 00)
-b)ckecking for duplicates (I identified 65 duplicates left with 1400 unique values)
+
+Browsing through the data to understand what I have and identify what is needed.
+
+I put my dataset in a table format to help excel recognise my dataset as a structured table.
+
+I cleaned my dataset by a)checking for blanks( I filled in 2 blanks in the rating_count colunm with 00).
+
+b)ckecking for duplicates (I identified 65 duplicates left with 1400 unique values).
+
 c)I used delimeter(|) for my category colunm in order to extract only the main category needed.
+
 d) I added some calculated columns
+
 e) I deleted some columns that were not needed for the analysis.
 
 #### Results
-- Average discount percentage by product category
-- Number of products listed under each category
+1) Average discount percentage by product category
+   
+    ![Screenshot (37)](https://github.com/user-attachments/assets/eca5cfc4-2f6c-4888-a487-b5ba04feb928)
+
+   Product with the highest discount average discount category is Home improvements,Toys & games had no discount offer.
+
+ 2) Number of products listed under each category
+
+     ![Screenshot (38)](https://github.com/user-attachments/assets/a6ecd65a-1ecd-4474-917a-259c7a414165)
+
+    Electronics had the highest number of product,Car and Motorbike,Toys and Games,Health and Personal Care were the least number of product.
+
+3) The total number of reviews per category
+
+    
+ 4) 
 - Total number of reviews per category
 4) Products with the highest  average rating
 
