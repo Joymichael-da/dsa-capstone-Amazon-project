@@ -86,7 +86,7 @@ e) I deleted some columns that were not needed for the analysis.
 
 7) Products that have a discount of 50% or more
 
-   This was analysed using the formular =COUNTIF(discount%_range,(">=50").The result showed that 694 products had a discount of 50% and more for its sales.
+   This was analysed using the formular =COUNTIF(discount%_range,(">=50").The result showed that ###694 products had a discount of 50% and more for its sales.
 
 8) Distribution of product ratings
 
@@ -131,12 +131,13 @@ e) boAt Bassheads 100 in Ear Wired Earphones with Mic(Taffy Pink)	Electronics
 ![image](https://github.com/user-attachments/assets/ae5f9f47-b6e0-47d8-9d14-d068cee8370e)
 
 
-
-
 ### Excel Dashboard
 - 																
-																
-																
+![Screenshot (35)](https://github.com/user-attachments/assets/5189bca6-8cc2-4408-9e3b-f4aee6d43deb)
+															
+### Conclusion
+
+As a junior data analyst assigned to this project, after all analysis has been carried out, it is obvious the discount on sales didnt profit the organization as the average rating of 4 is quite low, after such huge discount rate was put out.I would have loved to see a data of sales without discount to be able to confidently give my conclusions on the profit/gain of this company.
 																
 																
 																
